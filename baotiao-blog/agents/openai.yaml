@@ -1,0 +1,7 @@
+interface:
+  display_name: "Baotiao Blog"
+  short_description: "Write Baotiao-style technical posts"
+  default_prompt: "Use $baotiao-blog to draft or edit a database kernel blog post in Baotiao's Markdown style."
+
+policy:
+  allow_implicit_invocation: true
